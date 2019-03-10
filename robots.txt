@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: *?
+Host: forsunki-pnz.ru
+Sitemap: http://forsunki-pnz.ru/sitemap.xml
